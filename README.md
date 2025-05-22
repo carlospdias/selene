@@ -1,6 +1,20 @@
 # selene
 Livraria Pública
 
+## Limpeza de Ambiente Docker
+```sh
+$ docker system prune -a # Tentar remover todas as imagens 'paradas'.
+
+$ docker rmi $(docker images -a -q)
+
+# Stop and remove all containers
+$ docker stop $(docker ps -a -q)
+$ docker rm $(docker ps -a -q)
+
+
+# How do I clear all Docker images and cache?
+$ docker system prune --all --volumes
+```
 ## Configuração do Projeto no Keycloak
 
 Referências:
