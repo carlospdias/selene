@@ -83,11 +83,13 @@ crashlytics-build.properties
 fabric.properties
 
 ### VisualStudioCode ###
-.vscode/*
+.vscode
 .history/
 *.vsix
 .history
 .ionide
+
+.editorconfig
 
 ### Windows ###
 Thumbs.db
