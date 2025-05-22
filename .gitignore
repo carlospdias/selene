@@ -185,3 +185,5 @@ dist
 .pnp.*
 .webpack/
 .svelte-kit
+
+.angular
