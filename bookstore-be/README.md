@@ -18,6 +18,8 @@ The backend of the Book Social Network project is responsible for handling all s
 
 To set up the backend of the Book Social Network project, follow these steps:
 
+[![Watch the video](https://img.youtube.com/vi/Ppkys9dKadA/sddefault.jpg)](https://www.youtube.com/watch?v=Ppkys9dKadA&t=1649s)
+
 1. Clone the repository:
 
 ```bash
